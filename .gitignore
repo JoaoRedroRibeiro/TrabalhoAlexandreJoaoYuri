@@ -1,0 +1,52 @@
+# Environment and secrets# Environment
+
+.env.env
+
+venv/
+
+# Pythonenv/
+
+__pycache__/ENV/
+
+*.pyc
+
+*.pyo# Python
+
+*.pyd__pycache__/
+
+.python-version*.py[cod]
+
+*$py.class
+
+# Editors/OS*.so
+
+.vscode/.Python
+
+.idea/
+
+.DS_Store# Jupyter Notebook
+
+Thumbs.db.ipynb_checkpoints
+
+
+
+# Caches# Vector DB
+
+.pytest_cache/chroma_db/
+
+
+
+# Local vector store/indexes# IDE
+
+faiss_index/.vscode/
+
+.idea/
+
+# Notebooks*.swp
+
+.ipynb_checkpoints/*.swo
+
+
+# OS
+.DS_Store
+Thumbs.db
